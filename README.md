@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Gautam Maurya
-- Author-Gautam Maurya
+👋 Hi, I’m Gautam Maurya
+<br>
+Author-Gautam Maurya
 
