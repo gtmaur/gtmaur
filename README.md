@@ -24,7 +24,7 @@ I'm always looking to collaborate on:
 - 🔁 **FSI & Reduced Order Modeling**
 
 📫 **Reach out**: [gtmaur@gmail.com](mailto:gtmaur@gmail.com)
-🌐 **Website**: [https://gtmaurya.com](https://gtmaurya.com)
+🌐 **Website**: [https://gmaurya.com](https://gmaurya.com)
 
 ---
 
