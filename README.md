@@ -20,8 +20,8 @@ I'm passionate about tackling complex challenges at the intersection of **Comput
 
 I'm always looking to collaborate on:
 - 🔗 **Machine Learning for Fluid Flows**
+- 🌪️ **Turbulence**
 - ⚙️ **Data-Driven Methods for Scientific Computing**
-- 🔁 **FSI & Reduced Order Modeling**
 
 📫 **Reach out**: [gtmaur@gmail.com](mailto:gtmaur@gmail.com)
 🌐 **Website**: [https://gmaurya.com](https://gmaurya.com)
