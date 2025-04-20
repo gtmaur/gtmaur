@@ -9,8 +9,7 @@
 I'm passionate about tackling complex challenges at the intersection of **Computational Fluid Dynamics (CFD)**, **Applied Mathematics**, and **Aerospace & Mechanical Engineering**.
 
 💡 Currently exploring and working on:
-- 🔬 **Boundary Layer Problems**
-- 🌊 **Fluid-Structure Interaction (FSI)**
+- 🔬 **Force Partioning Approches**
 - 🌪️ **Turbulence**
 - 💻 **CFD Simulations**
 
