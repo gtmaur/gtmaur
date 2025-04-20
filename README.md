@@ -31,7 +31,7 @@ I'm always looking to collaborate on:
 ## 📚 Research & Writing
 
 📄 Published research available on:
-- [[Google Scholar](https://scholar.google.com/citations?user=sHxQtsYAAAAJ&hl=en)](#)
+- [[[Google Scholar](https://scholar.google.com/citations?user=sHxQtsYAAAAJ&hl=en)]
 - [ResearchGate]((https://www.researchgate.net/profile/Gautam-Maurya-2?ev=hdr_xprf))
 - [ORCID]()
 
