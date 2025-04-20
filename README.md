@@ -32,11 +32,11 @@ I'm always looking to collaborate on:
 
 📄 Published research available on:
 - [Google Scholar](https://scholar.google.com/citations?user=sHxQtsYAAAAJ&hl=en)
-- [ResearchGate]((https://www.researchgate.net/profile/Gautam-Maurya-2?ev=hdr_xprf))
-- [ORCID]()
+- [ResearchGate](https://www.researchgate.net/profile/Gautam-Maurya-2?ev=hdr_xprf)
+
 
 🧑‍💻 Contributing to open source & learning in public via:
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurya/)
 
 
 ---
