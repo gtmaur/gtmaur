@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Gauatm Maurya
 
-👨‍🔬 *Computational Scientist | CFD Enthusiast | Turbulence Tamer*
+👨‍🔬 *Computational Scientist | CFD Enthusiast | Turbulence*
 
 ---
 
